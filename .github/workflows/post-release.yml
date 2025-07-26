@@ -12,4 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print version number
-        run: echo "Version: ${{ github.ref_name }}"
+        run: "echo \"Version: ${{ github.ref_name }}\""
