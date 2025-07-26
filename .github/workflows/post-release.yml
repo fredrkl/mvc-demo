@@ -8,8 +8,7 @@ on:
 
 jobs:
   post-release:
-    name: Post-Release
     runs-on: ubuntu-latest
     steps:
-      - name: Print version number
-        run: "echo \"Version: ${{ github.ref_name }}\""
+      - name: Print Hello World
+        run: echo "Hello, World!"
