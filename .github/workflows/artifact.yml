@@ -1,5 +1,5 @@
 ---
-name: Post-Release
+name: Artifact
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
       - '*'
 
 jobs:
-  post-release:
+  artifact:
     runs-on: ubuntu-latest
     steps:
       - name: Print Hello World
