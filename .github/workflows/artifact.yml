@@ -1,14 +1,17 @@
----
-name: Artifact
+name: On New Release
 
 on:
-  push:
-    tags:
-      - '*'
+  release:
+    types: [published]
 
 jobs:
-  artifact:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Print Hello World
-        run: echo "Hello, World!"
+      - name: Checkout the release commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.release.tag_name }}
+      - name: Print version
+        run: echo "Hello world."
