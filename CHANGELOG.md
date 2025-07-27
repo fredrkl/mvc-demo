@@ -1,3 +1,8 @@
+# [v1.6.0](https://github.com/fredrkl/mvc-demo/compare/v1.5.0...v1.6.0) (2025-07-27)
+
+## ✨ New Features
+- [`c2e52da`](https://github.com/fredrkl/mvc-demo/commit/c2e52da)  Only trigger on published
+
 # [v1.5.0](https://github.com/fredrkl/mvc-demo/compare/v1.4.0...v1.5.0) (2025-07-27)
 
 ## ✨ New Features
