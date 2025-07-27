@@ -1,3 +1,8 @@
+# [v1.4.0](https://github.com/fredrkl/mvc-demo/compare/v1.3.0...v1.4.0) (2025-07-26)
+
+## ✨ New Features
+- [`52747fe`](https://github.com/fredrkl/mvc-demo/commit/52747fe)  Trying with new workflow name
+
 # [v1.3.0](https://github.com/fredrkl/mvc-demo/compare/v1.2.0...v1.3.0) (2025-07-26)
 
 ## ✨ New Features
