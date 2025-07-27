@@ -1,3 +1,8 @@
+# [v1.5.0](https://github.com/fredrkl/mvc-demo/compare/v1.4.0...v1.5.0) (2025-07-27)
+
+## ✨ New Features
+- [`8147486`](https://github.com/fredrkl/mvc-demo/commit/8147486)  Testing trigger
+
 # [v1.4.0](https://github.com/fredrkl/mvc-demo/compare/v1.3.0...v1.4.0) (2025-07-26)
 
 ## ✨ New Features
