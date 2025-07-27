@@ -1,3 +1,11 @@
+# [v1.8.0](https://github.com/fredrkl/mvc-demo/compare/v1.7.0...v1.8.0) (2025-07-27)
+
+## ✨ New Features
+- [`1778cf8`](https://github.com/fredrkl/mvc-demo/commit/1778cf8)  Basic release flow 
+
+## 🐛 Bug Fixes
+- [`10e9a84`](https://github.com/fredrkl/mvc-demo/commit/10e9a84)  Need the gitmoji plugin
+
 # [v1.7.0](https://github.com/fredrkl/mvc-demo/compare/v1.6.0...v1.7.0) (2025-07-27)
 
 ## ✨ New Features
