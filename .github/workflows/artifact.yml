@@ -2,7 +2,6 @@ name: On New Release
 
 on:
   release:
-    types: [published]
 
 jobs:
   build:
