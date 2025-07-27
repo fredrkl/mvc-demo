@@ -1,3 +1,8 @@
+# [v1.7.0](https://github.com/fredrkl/mvc-demo/compare/v1.6.0...v1.7.0) (2025-07-27)
+
+## ✨ New Features
+- [`3411dcd`](https://github.com/fredrkl/mvc-demo/commit/3411dcd)  Basic release pipeline
+
 # [v1.6.0](https://github.com/fredrkl/mvc-demo/compare/v1.5.0...v1.6.0) (2025-07-27)
 
 ## ✨ New Features
