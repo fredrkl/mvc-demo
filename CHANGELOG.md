@@ -1,3 +1,8 @@
+# [v1.9.0](https://github.com/fredrkl/mvc-demo/compare/v1.8.0...v1.9.0) (2025-07-27)
+
+## ✨ New Features
+- [`a0a7109`](https://github.com/fredrkl/mvc-demo/commit/a0a7109)  Do not need npm
+
 # [v1.8.0](https://github.com/fredrkl/mvc-demo/compare/v1.7.0...v1.8.0) (2025-07-27)
 
 ## ✨ New Features
